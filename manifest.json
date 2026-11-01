@@ -1,0 +1,84 @@
+{
+  "format_version": 1,
+  "version": "2.0.0",
+  "created_at_utc": "2026-10-30T11:16:40.043704+00:00",
+  "target": {
+    "name": "The Wolf Among Us Remastered",
+    "steam_app_id": 3884860,
+    "resource_version": "PCS.18.3.7585",
+    "executable": "TheWolfAmongUsRemastered.exe"
+  },
+  "required_free_bytes": 1073741824,
+  "archive_count": 8,
+  "translation": {
+    "files": 90,
+    "rows_total": 27071,
+    "visible_rows": 26298,
+    "translated_rows": 26298,
+    "action_overrides_used": 166
+  },
+  "fonts": {
+    "count": 38,
+    "failure_count": 0,
+    "required_characters": 2585,
+    "strategy": "Unified Unicode fallback assigned to all 38 Project font slots; required CJK glyph coverage is complete."
+  },
+  "archives": [
+    {
+      "archive": "Fables_pc_Boot_ar_data.ttarch2",
+      "entries": 57,
+      "replaced_entries": 1,
+      "original_sha256": "2c3f056474200dbeb31fe9a82a5c06ce77293d7b200a9ceb31a3924b5e2d6428",
+      "patched_sha256": "ed5aabb9f8e32ad7611828bc0a434035c9d4ecd2dfa20bb5ca00ad174d03da6f"
+    },
+    {
+      "archive": "Fables_pc_Fables101_ar_data.ttarch2",
+      "entries": 1792,
+      "replaced_entries": 21,
+      "original_sha256": "f121e1d9e48df4a733f42298686f07752ec6bd8bf916ebd8663275abb7de1432",
+      "patched_sha256": "5049fe4a36fba2e30a4540947387c07bbed5471b05a1882e97e7beaafcfa0be4"
+    },
+    {
+      "archive": "Fables_pc_Fables102_ar_data.ttarch2",
+      "entries": 1826,
+      "replaced_entries": 19,
+      "original_sha256": "8d6a404a893dbc78d184aa2b3a62607d8769e556d836f4a5217056221616d498",
+      "patched_sha256": "26d39ddbef857155d6f8ab13fadd011218fedbf3b72ce995fbe55215df068a8d"
+    },
+    {
+      "archive": "Fables_pc_Fables103_ar_data.ttarch2",
+      "entries": 1899,
+      "replaced_entries": 14,
+      "original_sha256": "d757af6756cd8095cec67277541a47ea266b419115579533c7ef7163d677affe",
+      "patched_sha256": "c487500c95970c74664f623e4edbb552da62a3b4dcefd14c9e129cec5cae7064"
+    },
+    {
+      "archive": "Fables_pc_Fables104_ar_data.ttarch2",
+      "entries": 1637,
+      "replaced_entries": 12,
+      "original_sha256": "07376eaefd852d345eb07c7a9740791e5996dcf710fabf902332f54a2d33bcae",
+      "patched_sha256": "fa5fd7b449ca3fb8e8f57267471b8443e31cb45ed53dfea9ddde2cc7df73b2e2"
+    },
+    {
+      "archive": "Fables_pc_Fables105_ar_data.ttarch2",
+      "entries": 1777,
+      "replaced_entries": 14,
+      "original_sha256": "4bb23d430385805f4031ffa905d53931b9fc4ee45023ec60e170f6ff812aaee3",
+      "patched_sha256": "9e9faafc183c681786ca02c61fff3580c352509c0f8ee7b1a448a67d23f1167b"
+    },
+    {
+      "archive": "Fables_pc_Menu_ar_data.ttarch2",
+      "entries": 563,
+      "replaced_entries": 7,
+      "original_sha256": "e664e0bc6a93cae05cd9ba37de182e62bff47b4e4e9f780740ab9fe4ddb420f9",
+      "patched_sha256": "995bf9903884517c81d584b00ec8ec9fdea51b3cfcca9328e6fd1736a798b88c"
+    },
+    {
+      "archive": "Fables_pc_Project_ar_all.ttarch2",
+      "entries": 651,
+      "replaced_entries": 40,
+      "original_sha256": "5a98daa84fa526a625782bd97ce2148fe7a720fd3778da6ecec4b6a6b747de88",
+      "patched_sha256": "929e38f39f3a46d9d2af99916c31585e95c7323a235463fd4f62ebbf41e6dbe5"
+    }
+  ]
+}
