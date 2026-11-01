@@ -1,4 +1,4 @@
-# 《我们之中的狼：重制版》简体中文汉化
+# 《TheWolfAmongUsRemastered》简体中文汉化
 
 版本：2.0.0  
 目标游戏：Steam AppID 3884860（The Wolf Among Us Remastered）  
