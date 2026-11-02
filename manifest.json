@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "2.0.0",
-  "created_at_utc": "2026-10-30T11:16:40.043704+00:00",
+  "version": "2.0.1",
+  "created_at_utc": "2026-11-02T13:35:16.932626+00:00",
   "target": {
     "name": "The Wolf Among Us Remastered",
     "steam_app_id": 3884860,
@@ -10,6 +10,9 @@
   },
   "required_free_bytes": 1073741824,
   "archive_count": 8,
+  "project_overrides": [
+    "choice.prop"
+  ],
   "translation": {
     "files": 90,
     "rows_total": 27071,
@@ -76,9 +79,9 @@
     {
       "archive": "Fables_pc_Project_ar_all.ttarch2",
       "entries": 651,
-      "replaced_entries": 40,
+      "replaced_entries": 41,
       "original_sha256": "5a98daa84fa526a625782bd97ce2148fe7a720fd3778da6ecec4b6a6b747de88",
-      "patched_sha256": "929e38f39f3a46d9d2af99916c31585e95c7323a235463fd4f62ebbf41e6dbe5"
+      "patched_sha256": "1bab2a6acb2028b55e11290bb7070fbcf1527051a5239952019d79075bc03a8b"
     }
   ]
 }
