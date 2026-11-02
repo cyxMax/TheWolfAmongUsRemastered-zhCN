@@ -28,6 +28,7 @@ mojibake.
 ## Archives
 
 - Rebuilt TTARCH2 archives: 8
+- Additional Project archive entries: choice.prop
 - Original archive bytes: 41452343
 - Patched archive bytes: 234854534
 
@@ -54,4 +55,6 @@ to the original game resource.
 - Detailed audio/video settings: Chinese labels and values rendered correctly.
 - Episode 1 opening and story text: Chinese narrative and prompt text rendered
   correctly.
+- Player choice statistics: all 103 translated questions and percentage
+  explanations rendered correctly, including scrolling to later entries.
 - The patch was built against official Steam-restored archive hashes.
